@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<god version="1.0"
+  xmlns="https://www.smaji.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="https://www.smaji.org file:///home/kandu/pro/smaji/dynamic_glyph/god/god.xsd.xml">
+  <glyph unicode="4e65,0">
+    <ref unicode= "4e64" x="0" y="0" width="64" height="64"/>
+    <ref unicode= "4e64" x="64" y="0" width="64" height="64"/>
+    <ref unicode= "4e64" x="0" y="64" width="64" height="64"/>
+    <ref unicode= "4e64" x="64" y="64" width="64" height="64"/>
+  </glyph>
+</god>
+

@@ -1,0 +1,36 @@
+<svg viewBox="0.0,0.0 125.4,120.5" xmlns="http://www.w3.org/2000/svg">
+  <clipPath id="haj">
+    <path d="
+      M 1.6,11.6
+      l -1.6,-3.7
+      H 53.4
+      l 6.5,-7.9
+      c 6.5,5.3,9.7,8.6,9.7,10.0
+      c 0.0,0.8,-0.5,1.5,-1.5,2.1
+      l -3.9,2.4
+      v 93.2
+      c 0.0,2.2,0.8,3.6,2.3,4.0
+      c 1.2,0.4,7.9,0.6,20.3,0.6
+      c 12.6,0.0,19.7,-0.2,21.2,-0.7
+      c 3.4,-1.2,5.6,-12.5,6.6,-33.8
+      l 4.0,1.7
+      c 0.0,16.4,0.5,25.7,1.4,27.9
+      c 0.7,1.9,2.5,2.9,5.4,2.9
+      c -0.2,4.7,-2.0,7.5,-5.3,8.5
+      c -3.3,1.1,-14.6,1.7,-33.9,1.7
+      c -18.0,0.0,-27.9,-1.2,-29.5,-3.6
+      c -1.1,-1.6,-1.6,-4.3,-1.6,-8.1
+      v -97.0
+      H 1.6
+      Z"
+    />
+  </clipPath>
+  <g clip-path="url(#haj)">
+    <rect x="-40" y="10" width="90" height="0" transform="rotate(-45 -10,10)">
+      <animate attributeName="height" values="0;130" dur="0.35s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="50" y="120" width="0" height="50" transform="rotate(-45 60,140)">
+      <animate attributeName="width" values="0;120" begin="0.3s" dur="0.2s" repeatCount="1" fill="freeze"/>
+    </rect>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<god version="1.0"
+  xmlns="https://www.smaji.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="https://www.smaji.org file:///home/kandu/pro/smaji/dynamic_glyph/god/god.xsd.xml">
+  <glyph unicode="8f6b,0">
+    <stroke type="d" x="8" y="0" width="20" height="20"/>
+    <stroke type="hv" x="0" y="24" width="32" height="68"/>
+    <stroke type="ufp" x="6" y="90" width="120" height="16"/>
+  </glyph>
+</god>

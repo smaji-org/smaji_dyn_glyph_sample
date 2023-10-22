@@ -1,0 +1,26 @@
+<svg viewBox="0.0,0.0 130.0,53.1" xmlns="http://www.w3.org/2000/svg">
+  <clipPath id="hj">
+    <path d="
+      M 0.0,8.3
+      h 113.2
+      l 6.6,-8.3
+      c 6.8,6.3,10.2,10.3,10.2,11.7
+      c 0.0,0.7,-0.6,1.3,-1.8,1.8
+      l -4.4,1.7
+      c -7.3,11.1,-17.2,23.7,-29.6,37.9
+      l -3.1,-2.4
+      c 12.1,-16.6,19.7,-29.4,22.9,-38.7
+      H 1.6
+      L 0.0,8.3
+      Z"
+    />
+  </clipPath>
+  <g clip-path="url(#hj)">
+    <rect x="0" y="0" width="0" height="12">
+      <animate attributeName="width" values="0;130" dur="0.4s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="91" y="0" width="39" height="0">
+      <animate attributeName="height" values="0;53.1" begin="0.35s" dur="0.15s" repeatCount="1" fill="freeze"/>
+    </rect>
+  </g>
+</svg>

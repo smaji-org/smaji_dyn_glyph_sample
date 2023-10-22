@@ -1,0 +1,19 @@
+<svg viewBox="0.0,0.0 107.0,112.6" xmlns="http://www.w3.org/2000/svg">
+  <clipPath id="p">
+    <path d="
+      M 3.6,0.0
+      c 14.7,34.1,31.7,59.0,51.0,74.7
+      c 13.5,11.0,30.9,20.5,52.4,28.5
+      c -3.4,2.2,-6.1,5.4,-8.2,9.4
+      C 66.8,98.8,42.5,79.5,25.8,54.9
+      c -9.2,-13.5,-17.8,-31.0,-25.8,-52.7
+      L 3.6,0.0
+      Z"
+    />
+  </clipPath>
+  <g clip-path="url(#p)">
+    <rect x="0" y="0" width="107" height="0">
+      <animate attributeName="height" values="0;112.6" dur="1s" repeatCount="1" fill="freeze"/>
+    </rect>
+  </g>
+</svg>
