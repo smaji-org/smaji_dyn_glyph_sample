@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <god version="1.0"
-  xmlns="https://www.smaji.org"
+  xmlns="http://cjkv.smaji.org/ns/god"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="https://www.smaji.org file:///home/kandu/pro/smaji/dynamic_glyph/god/god.xsd.xml">
+  xsi:schemaLocation="http://cjkv.smaji.org/ns/god https://cjkv.smaji.org/xml/1.0/xsd/god.xsd">
   <glyph unicode="30edd,0">
     <character utf8= "宀" x="20" y="0" width="112" height="16"/>
     <character utf8= "八" x="24" y="12" width="104" height="12"/>

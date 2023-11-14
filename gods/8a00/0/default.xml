@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <god version="1.0"
-  xmlns="https://www.smaji.org"
+  xmlns="http://cjkv.smaji.org/ns/god"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="https://www.smaji.org file:///home/kandu/pro/smaji/dynamic_glyph/god/god.xsd.xml">
-  <glyph unicode="4e00,0">
+  xsi:schemaLocation="http://cjkv.smaji.org/ns/god https://cjkv.smaji.org/xml/1.0/xsd/god.xsd">
+  <glyph unicode="8a00,0">
     <ref unicode= "4ea0" x="0" y="0" width="128" height="30"/>
     <stroke type="h" x="24" y="36" width="80" height="8"/>
     <stroke type="h" x="24" y="52" width="80" height="8"/>

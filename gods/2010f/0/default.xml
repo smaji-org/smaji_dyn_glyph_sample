@@ -3,7 +3,7 @@
   xmlns="http://cjkv.smaji.org/ns/god"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://cjkv.smaji.org/ns/god https://cjkv.smaji.org/xml/1.0/xsd/god.xsd">
-  <glyph unicode="4e00,0">
-    <stroke type="h" x="0" y="20" width="128" height="16"/>
+  <glyph unicode="2010f,0" transform="rotate180">
+    <character utf8="了" x="0" y="0" width="88" height="128" />
   </glyph>
 </god>
